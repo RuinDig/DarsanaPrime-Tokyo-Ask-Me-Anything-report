@@ -94,4 +94,4 @@ However, we're planning to retire "[REDACTED]", or the original Ingress scanner 
 So please be patient with us, give us your feedback, we know that there's still more things to build on and improve with Ingress Prime, but the whole team as well as the whole company's committed to making a Ingress Prime, the best scanner ever and we're really excited to reach that phase where we're able to now introduce new features and new types of gameplay. So thank you very much for your patience and all of your feedback that you've given us on Ingress Prime. We're working really hard to make all of us happier.
 新しい機能を出したり本当に機能改善を頑張っていて、そのためには本当に皆さんからのフィードバックをいただく事が非常に重要です。我々も皆さんの望むペースでは開発できないかもしれないので、我々も頑張っているのですが、皆さんも優しくしてほしいという所もありつつ、本当にフィードバックが重要なので、どこの部分が良いとか悪いとかご意見を伺いながら、これからも開発していきたいです。
 …という真摯なプロダクトマネージャーの一言でしたので、ぜひ皆様よろしくお願いします(と山崎さん)。
--end-
+<p>-end-</p>
