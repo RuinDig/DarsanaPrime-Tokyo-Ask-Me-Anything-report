@@ -7,8 +7,8 @@
 <p>Blog: https://ruindig.hatenablog.jp/entry/ingress/ama-darsanaprime-tokyo</p>
 
 # 質問1 Question1
-4月の初めにGoogle+がサービスを終了した後、Ingressコミュニティはどこに行けばいいですか？<br/>
-Where we should the community go after Google+ ends at the beginning of April?
+## 4月の初めにGoogle+がサービスを終了した後、Ingressコミュニティはどこに行けばいいですか？<br/>
+## Where we should the community go after Google+ ends at the beginning of April?
 
 アンドリューさんの回答 Answered by Andrew Krug:<br/>
 The good news is we're working on a solution. We are going to talk about it, publish it by next week before Google+ end to let you know what the plan is.<br/>
@@ -27,10 +27,10 @@ It may not be ready by the time Google+ shuts down on April 2nd, you might be ab
 4月2日にGoogle+が無くなるのですが、そこまでには間に合わないという事です。なんですけども、10月をターゲットにしていた所に、前倒しになってしまったので結構頑張っているんですけど、4月2日には間に合わないんですが、なるべく早くソリューションをご提供できるように鋭意頑張っています。
 
 # 質問2 Question2
-電話番号によるユーザー認証の復活、またはそれに相当する機能は実装しないのですか？<br/>
-With user authentication, when a phone number or something else return?
+## 電話番号によるユーザー認証の復活、またはそれに相当する機能は実装しないのですか？<br/>
+## With user authentication, when a phone number or something else return?
 
-スコットさんの回答 Answered by Scot Frank:
+スコットさんの回答 Answered by Scot Frank:<br/>
 So I talked to our security and anti cheat team to ask them their thoughts on this, and also how this feature worked previously, and they said that actually didn't work as well as planned.<br/>
 セキュリティチームやアンチ・チートチームと色々話をして、どういう風に前はやっていたかとか、どういう風にやるかという質問をしたのですが、以前提供されていたものも、こういう機能であってほしいという風には実は動いていなかったという事が分かりました。
 
@@ -44,8 +44,8 @@ So once we retire "[REDACTED]", then we'll be turning on the security system.<br
 なのでScanner[REDACTED]を終了した後にセキュリティの機能とアンチ・チートの機能をアクティベート(起動)するという予定になっています。
 
 # 質問3 Question3
-5月のAbaddon Primeでこのアノマリーシリーズが終わりますが、次のアノマリーシリーズの場所と日時を教えてください。<br/>
-When are you going to announce the next set of anomalies after this series ends with Abaddon Prime in May?
+## 5月のAbaddon Primeでこのアノマリーシリーズが終わりますが、次のアノマリーシリーズの場所と日時を教えてください。<br/>
+## When are you going to announce the next set of anomalies after this series ends with Abaddon Prime in May?
 
 アンドリューさんの回答 Answered by Andrew Krug:<br/>
 So the good news is, I was told a few days ago that I can tell you when we're going to publish the next series of anomaly days.<br/>
@@ -58,8 +58,8 @@ However, we will probably only release about six months worth of anomaly informa
 今回のアナウンスというのはおそらく6ヶ月くらいで、前回は1年分アナウンスしたのですが、早めにアナウンスするとネガティブな結果もあるという事が前回分かりました。実は2020年までアノマリーの計画自体はできているという事なんですけども、情報公開に関してはまず6ヶ月分やって、様子を見て、その後また6ヶ月分の予定を公開する予定です。
 
 # 質問4 Question4
-Scanner[REDACTED]が使えなくなる予定日はあるのでしょうか？<br/>
-Is there target date for discontinuing Scanner[REDACTED] in the near future?
+## Scanner[REDACTED]が使えなくなる予定日はあるのでしょうか？<br/>
+## Is there target date for discontinuing Scanner[REDACTED] in the near future?
 
 スコットさんの回答 Answered by Scot Frank:<br/>
 So I have two questions for the audience.<br/>
